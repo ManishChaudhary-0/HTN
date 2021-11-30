@@ -11,6 +11,7 @@ Steps to run Hypertension Analysis Application in IOS Simulator.
    
    To install the IOS Simulator:
    
+    https://docs.expo.dev/workflow/ios-simulator/
     
   
   After installing dependencies above:
