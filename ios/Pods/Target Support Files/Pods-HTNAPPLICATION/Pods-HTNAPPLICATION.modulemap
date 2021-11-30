@@ -1,0 +1,6 @@
+module Pods_HTNAPPLICATION {
+  umbrella header "Pods-HTNAPPLICATION-umbrella.h"
+
+  export *
+  module * { export * }
+}
