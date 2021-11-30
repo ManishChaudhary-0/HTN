@@ -1,8 +1,8 @@
 # Hypertension_Analysis_Application
 
-###
-Dependicies to install in terminal (command prompt):
-###
+Steps to run Hypertension Analysis Application in IOS Simulator.
+
+    St
 
   1. npm install
   2. expo install
