@@ -2,7 +2,21 @@
 
 Steps to run Hypertension Analysis Application in IOS Simulator.
 
-    St
-
-  1. npm install
-  2. expo install
+  In Terminal (Command Prompt for Windows) run the following lines to install dependencies.
+  
+    1. npm install
+    
+    2. expo install
+    
+   
+   To install the IOS Simulator:
+   
+    
+  
+  After installing dependencies above:
+  
+    3. expo start
+    
+    
+   
+Note: More Steps to be provided soon.
