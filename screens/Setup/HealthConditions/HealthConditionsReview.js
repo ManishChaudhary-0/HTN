@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     },
     press: {
         backgroundColor: '#2979ff',
-        top: 420,
+        top: 465,
         height: 40,
         width: 285,
         borderColor: '#000000',
@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     },
     pressAdd: {
         backgroundColor: '#2979ff',
-        top: 375,
+        top: 430,
         height: 40,
         width: 285,
         borderColor: '#000000',

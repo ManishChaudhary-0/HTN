@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     },
     press: {
         backgroundColor: '#2979ff',
-        top: 255,
+        top: 310,
         height: 40,
         width: 285,
         borderColor: '#000000',

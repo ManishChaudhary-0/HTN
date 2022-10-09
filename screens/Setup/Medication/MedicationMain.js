@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     },
     press: {
         backgroundColor: '#2979ff',
-        top: 465,
+        top:525,
         height: 40,
         width: 285,
         borderColor: '#000000',

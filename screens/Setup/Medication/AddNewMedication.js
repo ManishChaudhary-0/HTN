@@ -245,7 +245,6 @@ const AddNewMedication = props => {
                         placeholder="Enter Medication"
                         placeholderTextColor="#000000"
                         listContainerStyle={{marginTop:'10%', zIndex: 1}}
-                        containerStyle={styles.autocompleteContainer}
                         defaultValue={Medication} // CAUSES ONE CHAR ERROR
                       //  selectedValue={setStageLoaded(true), setTakeEffect(true)}     too many re-renders
                         flatListProps={{
@@ -362,7 +361,7 @@ const AddNewMedication = props => {
                 </View>
 
 
-                <View style={{alignItems: 'center', marginTop:'9%'}}>
+                <View style={{alignItems: 'center', marginTop:'35%'}}>
                     <Pressable style={styles.press} onPress={() => {props.navigation.navigate({routeName: 'SMedicationReview'});}}>
                         <Text style={styles.buttonText}>
                             Continue
