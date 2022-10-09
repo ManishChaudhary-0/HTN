@@ -47,10 +47,10 @@ Depending on your system, npm and expo commands may need to be places afer npx.
   Once expo has been started:
 
   If browser opens to localhost - 
-    1. select "ios simulator" on the left.
+      1. select "ios simulator" on the left.
 
   If still in terminal
-    2. press "i".
+      2. press "i".
 
 
   Ios Simulator will start up the Hypertension Analysis Application.
